@@ -606,7 +606,7 @@
     "vscode:package": "webpack --mode production && vsce package"
   },
   "devDependencies": {
-    "@babel/core": "~7.10.2",
+    "@babel/core": "~7.17.5",
     "@types/node": "~12",
     "@types/vscode": "~1.44.0",
     "babel-eslint": "~10.1.0",
